@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("one");
 		System.out.println("two");
 		System.out.println("three");
+		System.out.println("收到第一次请求");
 	}
 
 }
